@@ -4,3 +4,16 @@ LCD 2004 I2C
 * SDA pin 12
 * SCL pin 11
 
+Motor
+* pin 8
+
+Relay Module Power
+* pin 24
+
+Linear actuator 1
+* pin 32 forward
+* pin 30 reverse
+
+Linear actuator 2
+* pin 28 forward
+* pin 26 reverse
