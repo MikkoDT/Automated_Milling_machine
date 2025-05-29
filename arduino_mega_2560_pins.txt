@@ -1,0 +1,6 @@
+LCD 2004 I2C
+* GND 
+* VCC
+* SDA pin 12
+* SCL pin 11
+
