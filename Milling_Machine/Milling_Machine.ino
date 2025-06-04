@@ -1,4 +1,4 @@
-const int buttonPin = 10;    // Push button connected to GND
+const int buttonPin = 40;    // Push button connected to GND
 const int motorPin = 8;      // Motor relay control pin
 
 // Linear Actuator Pins
