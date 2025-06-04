@@ -14,9 +14,9 @@ Relay Module Power
 * pin 24
 
 Linear actuator 1
-* pin 32 forward
+* pin 32 forward (10 sec)
 * pin 30 reverse
 
 Linear actuator 2
 * pin 28 forward
-* pin 26 reverse
+* pin 26 reverse (6sec)

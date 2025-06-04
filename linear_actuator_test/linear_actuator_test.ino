@@ -1,6 +1,6 @@
 // Relay Signal Pins
-const int forwardPin2 = 30; 
-const int reversePin2 = 32;
+const int forwardPin2 = 26; 
+const int reversePin2 = 28;
 
 // Relay Module Power Control
 const int relayPower = 24;
@@ -20,7 +20,7 @@ void setup() {
 
 
   digitalWrite(forwardPin2, HIGH);
-  delay(10000); // Run time
+  delay(000); // Run time
 
   // Stop actuator
   digitalWrite(forwardPin2, LOW);
