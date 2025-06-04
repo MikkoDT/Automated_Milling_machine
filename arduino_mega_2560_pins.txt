@@ -1,8 +1,11 @@
 LCD 2004 I2C
 * GND 
 * VCC
-* SDA pin 12
-* SCL pin 11
+* SDA pin 20
+* SCL pin 21
+
+Push Button
+* pin 10
 
 Motor
 * pin 8
