@@ -10,9 +10,9 @@ const int act2ReversePin = 26;
 
 // Adjustable durations
 unsigned long motorDuration1 = 60UL * 60UL * 1000UL;  // 20 mins for first run
-unsigned long motorDuration2 = 1UL * 60UL * 1000UL;  // 20 mins for second run
+unsigned long motorDuration2 = 10UL * 60UL * 1000UL;  // 20 mins for second run
 
-unsigned long act1ExtendTime = 12UL * 1000UL;         // 10 seconds
+unsigned long act1ExtendTime = 16UL * 1000UL;         // 10 seconds
 unsigned long act2RetractTime = 6UL * 1000UL;         // 6 seconds
 
 void setup() {
